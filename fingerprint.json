@@ -1,0 +1,1308 @@
+{
+    "fingerprint_version": 43,
+    "timestamp": "2025-05-10T16:44:57.184Z",
+    "math_rand": "a4493ad9c9c66",
+    "webasm": true,
+    "document": {
+        "title": "Vous connecter à votre compte Epic Games | Epic Games",
+        "referrer": ""
+    },
+    "navigator": {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+        "platform": "Win32",
+        "language": "fr-FR",
+        "languages": ["fr-FR", "fr", "en-US", "en"],
+        "hardware_concurrency": 4,
+        "device_memory": 8,
+        "product": "Gecko",
+        "product_sub": "20030107",
+        "vendor": "Google Inc.",
+        "vendor_sub": "",
+        "webdriver": false,
+        "max_touch_points": 0,
+        "cookie_enabled": true,
+        "property_list": [
+            "vendorSub",
+            "productSub",
+            "vendor",
+            "maxTouchPoints",
+            "scheduling",
+            "userActivation",
+            "doNotTrack",
+            "geolocation",
+            "connection",
+            "plugins",
+            "mimeTypes",
+            "pdfViewerEnabled",
+            "webkitTemporaryStorage",
+            "webkitPersistentStorage",
+            "windowControlsOverlay",
+            "hardwareConcurrency",
+            "cookieEnabled",
+            "appCodeName",
+            "appName",
+            "appVersion",
+            "platform",
+            "product",
+            "userAgent",
+            "language",
+            "languages",
+            "onLine",
+            "webdriver",
+            "getGamepads",
+            "javaEnabled",
+            "sendBeacon",
+            "vibrate",
+            "deprecatedRunAdAuctionEnforcesKAnonymity",
+            "protectedAudience",
+            "bluetooth",
+            "storageBuckets",
+            "clipboard",
+            "credentials",
+            "keyboard",
+            "managed",
+            "mediaDevices",
+            "storage",
+            "serviceWorker",
+            "virtualKeyboard",
+            "wakeLock",
+            "deviceMemory",
+            "userAgentData",
+            "login",
+            "ink",
+            "mediaCapabilities",
+            "devicePosture",
+            "hid",
+            "locks",
+            "gpu",
+            "mediaSession",
+            "permissions",
+            "presentation",
+            "serial",
+            "usb",
+            "xr",
+            "adAuctionComponents",
+            "runAdAuction",
+            "canLoadAdAuctionFencedFrame",
+            "canShare",
+            "share",
+            "clearAppBadge",
+            "getBattery",
+            "getUserMedia",
+            "requestMIDIAccess",
+            "requestMediaKeySystemAccess",
+            "setAppBadge",
+            "webkitGetUserMedia",
+            "clearOriginJoinedAdInterestGroups",
+            "createAuctionNonce",
+            "joinAdInterestGroup",
+            "leaveAdInterestGroup",
+            "updateAdInterestGroups",
+            "deprecatedReplaceInURN",
+            "deprecatedURNToURL",
+            "getInstalledRelatedApps",
+            "getInterestGroupAdAuctionData",
+            "registerProtocolHandler",
+            "unregisterProtocolHandler"
+        ],
+        "connection_rtt": 200
+    },
+    "web_gl": {
+        "canvas_fingerprint": {
+            "length": 32302,
+            "num_colors": 4692,
+            "md5": "399cdbb5ee15d69c57357ea31cd2c2ae",
+            "tlsh": "72E2F2B122DBFC3EF458C4E822D707984930763DA019076FD8D813AA07674DBDD5A18C"
+        },
+        "parameters": {
+            "renderer": "ANGLE (Intel, Intel(R) UHD Graphics (0x00009B41) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "vendor": "Google Inc. (Intel)"
+        }
+    },
+    "window": {
+        "location": {
+            "origin": "https://www.epicgames.com",
+            "pathname": "/id/login",
+            "href": "https://www.epicgames.com/id/login"
+        },
+        "history": {
+            "length": 2
+        },
+        "screen": {
+            "avail_height": 824,
+            "avail_width": 1536,
+            "avail_top": 0,
+            "height": 864,
+            "width": 1536,
+            "color_depth": 24
+        },
+        "performance": {
+            "memory": {
+                "js_heap_size_limit": 2248146944,
+                "total_js_heap_size": 30515188,
+                "used_js_heap_size": 27513072
+            },
+            "resources": [
+                "https://static-assets-prod.unrealengine.com/account-portal/static/assets/index-Bnksxr2S.js",
+                "https://static-assets-prod.unrealengine.com/account-portal/static/assets/index-CTGxZpYh.css",
+                "https://tracking.epicgames.com/tracking.js",
+                "https://static-assets-prod.unrealengine.com/account-portal/static/assets/ie11-Cyev7YL0.js",
+                "https://static-assets-prod.unrealengine.com/account-portal/static/assets/es.array.from-BePYcjSQ.js",
+                "https://www.epicgames.com/id/api/i18n?ns=messages",
+                "https://www.epicgames.com/id/api/i18n?ns=epic-consent-dialog",
+                "https://www.epicgames.com/id/api/i18n?ns=messages",
+                "https://www.epicgames.com/id/api/i18n?ns=epic-consent-dialog",
+                "https://sentry.io/api/1333512/envelope/?sentry_key=7a13b97c16f4455f92376d5c1e27f102&sentry_version=7&sentry_client=sentry.javascript.react%2F7.118.0",
+                "https://www.epicgames.com/id/api/location",
+                "https://static-assets-prod.unrealengine.com/account-portal/static/assets/stable-BHPW3Ei1.js",
+                "https://www.epicgames.com/id/api/analytics",
+                "https://static-assets-prod.unrealengine.com/account-portal/static/assets/index-A5xXC0PA.js",
+                "https://tracking.epicgames.com/track.png?referringUrl=none&location=https%3A%2F%2Fwww.epicgames.com%2Fid%2Flogin&now=1746895314387&eventType=pageView",
+                "https://static-assets-prod.unrealengine.com/account-portal/static/assets/polyfill-yS7BKm77.js",
+                "https://static-assets-prod.unrealengine.com/account-portal/static/assets/serviceWorker-Bk4FTQHb.js",
+                "https://www.epicgames.com/id/api/analytics",
+                "https://static-assets-prod.unrealengine.com/account-portal/static/manifest.json",
+                "https://www.epicgames.com/id/api/analytics",
+                "https://www.epicgames.com/id/api/authenticate",
+                "https://www.epicgames.com/id/api/analytics",
+                "https://www.epicgames.com/id/api/analytics",
+                "https://static-assets-prod.unrealengine.com/account-portal/static/assets/Inter-Regular-CKDp9E3C.woff2",
+                "https://static-assets-prod.unrealengine.com/account-portal/static/assets/ModalBasePage-BHHG5Y2p.js",
+                "https://static-assets-prod.unrealengine.com/account-portal/static/assets/LoginPage-BnDIVb3c.js",
+                "https://static-assets-prod.unrealengine.com/account-portal/static/assets/AlternativeBar-CWH-gpw8.js",
+                "https://static-assets-prod.unrealengine.com/account-portal/static/assets/TitleBackButton-BLKoAmwm.js",
+                "https://talon-website-prod.ecosec.on.epicgames.com/talon_sdk.js",
+                "https://static-assets-prod.unrealengine.com/account-portal/static/assets/InterTight-Bold-CPdZBAQJ.woff2",
+                "https://static-assets-prod.unrealengine.com/account-portal/static/assets/Inter-Medium-P1cOs5ep.woff2",
+                "https://sentry.io/api/1333512/envelope/?sentry_key=7a13b97c16f4455f92376d5c1e27f102&sentry_version=7&sentry_client=sentry.javascript.react%2F7.118.0",
+                "https://talon-service-prod.ecosec.on.epicgames.com/v1/init",
+                "https://js.hcaptcha.com/1/api.js?onload=hCaptchaLoaded&render=explicit",
+                "https://newassets.hcaptcha.com/captcha/v1/c0fe6ae5dd33d2cb7ee0b4b527048a5016f409a8/static/i18n/fr.json",
+                "https://newassets.hcaptcha.com/captcha/v1/c0fe6ae5dd33d2cb7ee0b4b527048a5016f409a8/static/hcaptcha.html#frame=challenge&id=0hg7c0miuz4&host=www.epicgames.com&sentry=true&reportapi=https%3A%2F%2Faccounts.hcaptcha.com&recaptchacompat=true&custom=false&hl=fr&tplinks=on&pstissuer=https%3A%2F%2Fpst-issuer.hcaptcha.com&sitekey=91e4137f-95af-4bc9-97af-cdcedce21c8c&theme=light&size=invisible&challenge-container=h_captcha_challenge_login_prod&orientation=portrait&origin=https%3A%2F%2Fwww.epicgames.com",
+                "https://newassets.hcaptcha.com/captcha/v1/c0fe6ae5dd33d2cb7ee0b4b527048a5016f409a8/static/hcaptcha.html#frame=checkbox-invisible",
+                "https://static-assets-prod.unrealengine.com/account-portal/static/assets/Inter-Bold-CuhepTt8.woff2",
+                "https://talon-service-prod.ecosec.on.epicgames.com/v1/phaser/batch",
+                "https://talon-service-prod.ecosec.on.epicgames.com/v1/init/execute",
+                "https://talon-service-prod.ecosec.on.epicgames.com/v1/phaser/batch",
+                "https://www.epicgames.com/id/api/login",
+                "https://www.epicgames.com/id/api/login",
+                "https://talon-service-prod.ecosec.on.epicgames.com/v1/phaser/batch"
+            ]
+        },
+        "device_pixel_ratio": 1.25,
+        "dark_mode": false,
+        "chrome": true,
+        "property_list": [
+            "0",
+            "1",
+            "2",
+            "window",
+            "self",
+            "document",
+            "name",
+            "location",
+            "customElements",
+            "history",
+            "navigation",
+            "locationbar",
+            "menubar",
+            "personalbar",
+            "scrollbars",
+            "statusbar",
+            "toolbar",
+            "status",
+            "closed",
+            "frames",
+            "length",
+            "top",
+            "opener",
+            "parent",
+            "frameElement",
+            "navigator",
+            "origin",
+            "external",
+            "screen",
+            "innerWidth",
+            "innerHeight",
+            "scrollX",
+            "pageXOffset",
+            "scrollY",
+            "pageYOffset",
+            "visualViewport",
+            "screenX",
+            "screenY",
+            "outerWidth",
+            "outerHeight",
+            "devicePixelRatio",
+            "event",
+            "clientInformation",
+            "screenLeft",
+            "screenTop",
+            "styleMedia",
+            "onsearch",
+            "trustedTypes",
+            "performance",
+            "onappinstalled",
+            "onbeforeinstallprompt",
+            "crypto",
+            "indexedDB",
+            "sessionStorage",
+            "localStorage",
+            "onbeforexrselect",
+            "onabort",
+            "onbeforeinput",
+            "onbeforematch",
+            "onbeforetoggle",
+            "onblur",
+            "oncancel",
+            "oncanplay",
+            "oncanplaythrough",
+            "onchange",
+            "onclick",
+            "onclose",
+            "oncontentvisibilityautostatechange",
+            "oncontextlost",
+            "oncontextmenu",
+            "oncontextrestored",
+            "oncuechange",
+            "ondblclick",
+            "ondrag",
+            "ondragend",
+            "ondragenter",
+            "ondragleave",
+            "ondragover",
+            "ondragstart",
+            "ondrop",
+            "ondurationchange",
+            "onemptied",
+            "onended",
+            "onerror",
+            "onfocus",
+            "onformdata",
+            "oninput",
+            "oninvalid",
+            "onkeydown",
+            "onkeypress",
+            "onkeyup",
+            "onload",
+            "onloadeddata",
+            "onloadedmetadata",
+            "onloadstart",
+            "onmousedown",
+            "onmouseenter",
+            "onmouseleave",
+            "onmousemove",
+            "onmouseout",
+            "onmouseover",
+            "onmouseup",
+            "onmousewheel",
+            "onpause",
+            "onplay",
+            "onplaying",
+            "onprogress",
+            "onratechange",
+            "onreset",
+            "onresize",
+            "onscroll",
+            "onsecuritypolicyviolation",
+            "onseeked",
+            "onseeking",
+            "onselect",
+            "onslotchange",
+            "onstalled",
+            "onsubmit",
+            "onsuspend",
+            "ontimeupdate",
+            "ontoggle",
+            "onvolumechange",
+            "onwaiting",
+            "onwebkitanimationend",
+            "onwebkitanimationiteration",
+            "onwebkitanimationstart",
+            "onwebkittransitionend",
+            "onwheel",
+            "onauxclick",
+            "ongotpointercapture",
+            "onlostpointercapture",
+            "onpointerdown",
+            "onpointermove",
+            "onpointerrawupdate",
+            "onpointerup",
+            "onpointercancel",
+            "onpointerover",
+            "onpointerout",
+            "onpointerenter",
+            "onpointerleave",
+            "onselectstart",
+            "onselectionchange",
+            "onanimationend",
+            "onanimationiteration",
+            "onanimationstart",
+            "ontransitionrun",
+            "ontransitionstart",
+            "ontransitionend",
+            "ontransitioncancel",
+            "onafterprint",
+            "onbeforeprint",
+            "onbeforeunload",
+            "onhashchange",
+            "onlanguagechange",
+            "onmessage",
+            "onmessageerror",
+            "onoffline",
+            "ononline",
+            "onpagehide",
+            "onpageshow",
+            "onpopstate",
+            "onrejectionhandled",
+            "onstorage",
+            "onunhandledrejection",
+            "onunload",
+            "isSecureContext",
+            "crossOriginIsolated",
+            "scheduler",
+            "alert",
+            "atob",
+            "blur",
+            "btoa",
+            "cancelAnimationFrame",
+            "cancelIdleCallback",
+            "captureEvents",
+            "clearInterval",
+            "clearTimeout",
+            "close",
+            "confirm",
+            "createImageBitmap",
+            "fetch",
+            "find",
+            "focus",
+            "getComputedStyle",
+            "getSelection",
+            "matchMedia",
+            "moveBy",
+            "moveTo",
+            "open",
+            "postMessage",
+            "print",
+            "prompt",
+            "queueMicrotask",
+            "releaseEvents",
+            "reportError",
+            "requestAnimationFrame",
+            "requestIdleCallback",
+            "resizeBy",
+            "resizeTo",
+            "scroll",
+            "scrollBy",
+            "scrollTo",
+            "setInterval",
+            "setTimeout",
+            "stop",
+            "structuredClone",
+            "webkitCancelAnimationFrame",
+            "webkitRequestAnimationFrame",
+            "chrome",
+            "caches",
+            "cookieStore",
+            "ondevicemotion",
+            "ondeviceorientation",
+            "ondeviceorientationabsolute",
+            "launchQueue",
+            "sharedStorage",
+            "documentPictureInPicture",
+            "fetchLater",
+            "getScreenDetails",
+            "queryLocalFonts",
+            "showDirectoryPicker",
+            "showOpenFilePicker",
+            "showSaveFilePicker",
+            "originAgentCluster",
+            "onpageswap",
+            "onpagereveal",
+            "credentialless",
+            "fence",
+            "speechSynthesis",
+            "oncommand",
+            "onscrollend",
+            "onscrollsnapchange",
+            "onscrollsnapchanging",
+            "webkitRequestFileSystem",
+            "webkitResolveLocalFileSystemURL",
+            "AppInit",
+            "_epicEnableCookieGuard",
+            "__tracking_base",
+            "_sentryDebugIds",
+            "_sentryDebugIdIdentifier",
+            "SENTRY_RELEASE",
+            "__axiosInstance",
+            "__core-js_shared__",
+            "core",
+            "regeneratorRuntime",
+            "__axiosInstanceCached",
+            "IMask",
+            "__store",
+            "__SENTRY__",
+            "clearImmediate",
+            "setImmediate",
+            "_epicTrackingCookieDomainId",
+            "_epicTrackingCountryCode",
+            "_epicTracking",
+            "MotionHandoffIsComplete",
+            "a0_0xaf08",
+            "a0_0x2760",
+            "talon",
+            "hCaptchaLoaded",
+            "hCaptchaReady",
+            "Raven",
+            "hcaptcha",
+            "grecaptcha",
+            "k",
+            "i",
+            "TEMPORARY",
+            "PERSISTENT",
+            "addEventListener",
+            "dispatchEvent",
+            "removeEventListener",
+            "when"
+        ]
+    },
+    "date": {
+        "timezone_offset": -120,
+        "format": {
+            "calendar": "gregory",
+            "day": "2-digit",
+            "locale": "fr",
+            "month": "2-digit",
+            "numbering_system": "latn",
+            "time_zone": "Europe/Paris",
+            "year": "numeric"
+        }
+    },
+    "runtime": {
+        "sd_recurse": false
+    },
+    "fpjs": {
+        "version": "3.4.2",
+        "visitor_id": "9b1c405ad3c363cf75fbae02c70ada1a",
+        "confidence": 0.6,
+        "hashes": {
+            "fonts": "a2558384a1d839aeb59a0927e64ab04b",
+            "plugins": "7bf9267ddde7a33539244ab8ffe927d5",
+            "audio": "81c423152c811da0c92dcbe04435dbfe",
+            "canvas": "d2df0cc108804e48707f032c0d5281dd",
+            "screen": "6d86cca8bfee34abcddde8290dc1b785"
+        }
+    },
+    "motion": {
+        "mousemove": [
+            {
+                "t": 3192.5,
+                "x": 356,
+                "y": 181
+            },
+            {
+                "t": 3414.300000011921,
+                "x": 356,
+                "y": 181
+            },
+            {
+                "t": 3445.800000011921,
+                "x": 356,
+                "y": 181
+            },
+            {
+                "t": 10708.200000017881,
+                "x": 356,
+                "y": 180
+            },
+            {
+                "t": 10723.90000000596,
+                "x": 363,
+                "y": 177
+            },
+            {
+                "t": 10822.90000000596,
+                "x": 385,
+                "y": 214
+            },
+            {
+                "t": 10878.800000011921,
+                "x": 343,
+                "y": 297
+            },
+            {
+                "t": 10930.800000011921,
+                "x": 255,
+                "y": 368
+            },
+            {
+                "t": 10978.5,
+                "x": 201,
+                "y": 405
+            },
+            {
+                "t": 11030.5,
+                "x": 169,
+                "y": 435
+            },
+            {
+                "t": 11034.5,
+                "x": 168,
+                "y": 437
+            },
+            {
+                "t": 14632.800000011921,
+                "x": 696,
+                "y": 430
+            },
+            {
+                "t": 14682.800000011921,
+                "x": 626,
+                "y": 395
+            },
+            {
+                "t": 14690.700000017881,
+                "x": 625,
+                "y": 394
+            },
+            {
+                "t": 14783.800000011921,
+                "x": 642,
+                "y": 359
+            },
+            {
+                "t": 14815,
+                "x": 754,
+                "y": 306
+            },
+            {
+                "t": 15231.200000017881,
+                "x": 757,
+                "y": 274
+            },
+            {
+                "t": 15282.700000017881,
+                "x": 624,
+                "y": 303
+            },
+            {
+                "t": 15330.90000000596,
+                "x": 575,
+                "y": 318
+            },
+            {
+                "t": 15382.700000017881,
+                "x": 553,
+                "y": 334
+            },
+            {
+                "t": 15434.700000017881,
+                "x": 526,
+                "y": 355
+            },
+            {
+                "t": 15451.09999999404,
+                "x": 524,
+                "y": 357
+            },
+            {
+                "t": 15551,
+                "x": 517,
+                "y": 363
+            },
+            {
+                "t": 15598.700000017881,
+                "x": 510,
+                "y": 374
+            },
+            {
+                "t": 15651,
+                "x": 509,
+                "y": 377
+            },
+            {
+                "t": 15699.300000011921,
+                "x": 509,
+                "y": 384
+            },
+            {
+                "t": 15952.200000017881,
+                "x": 509,
+                "y": 384
+            },
+            {
+                "t": 16400.70000001788,
+                "x": 507,
+                "y": 383
+            },
+            {
+                "t": 16536.59999999404,
+                "x": 575,
+                "y": 368
+            },
+            {
+                "t": 16556.5,
+                "x": 587,
+                "y": 376
+            },
+            {
+                "t": 16668.70000001788,
+                "x": 587,
+                "y": 377
+            },
+            {
+                "t": 16700.80000001192,
+                "x": 584,
+                "y": 381
+            },
+            {
+                "t": 16757.5,
+                "x": 583,
+                "y": 382
+            },
+            {
+                "t": 16853,
+                "x": 583,
+                "y": 381
+            },
+            {
+                "t": 16905.70000001788,
+                "x": 596,
+                "y": 347
+            },
+            {
+                "t": 16957.30000001192,
+                "x": 660,
+                "y": 304
+            },
+            {
+                "t": 17016.80000001192,
+                "x": 688,
+                "y": 288
+            },
+            {
+                "t": 17064.5,
+                "x": 743,
+                "y": 270
+            },
+            {
+                "t": 17085.30000001192,
+                "x": 766,
+                "y": 266
+            },
+            {
+                "t": 17376.80000001192,
+                "x": 765,
+                "y": 267
+            },
+            {
+                "t": 17429.40000000596,
+                "x": 623,
+                "y": 317
+            },
+            {
+                "t": 17480.5,
+                "x": 516,
+                "y": 382
+            },
+            {
+                "t": 17508.5,
+                "x": 505,
+                "y": 388
+            },
+            {
+                "t": 17580.80000001192,
+                "x": 493,
+                "y": 405
+            },
+            {
+                "t": 17600.90000000596,
+                "x": 484,
+                "y": 437
+            },
+            {
+                "t": 20280.30000001192,
+                "x": 505,
+                "y": 437
+            },
+            {
+                "t": 20336.80000001192,
+                "x": 533,
+                "y": 401
+            },
+            {
+                "t": 20386,
+                "x": 544,
+                "y": 381
+            },
+            {
+                "t": 20409.90000000596,
+                "x": 545,
+                "y": 378
+            },
+            {
+                "t": 20488.5,
+                "x": 541,
+                "y": 412
+            },
+            {
+                "t": 20500.5,
+                "x": 538,
+                "y": 432
+            },
+            {
+                "t": 22078.20000001788,
+                "x": 225,
+                "y": 433
+            },
+            {
+                "t": 22132.80000001192,
+                "x": 628,
+                "y": 333
+            },
+            {
+                "t": 22148.5,
+                "x": 741,
+                "y": 317
+            },
+            {
+                "t": 23510.5,
+                "x": 758,
+                "y": 395
+            },
+            {
+                "t": 23565,
+                "x": 668,
+                "y": 411
+            },
+            {
+                "t": 23617.09999999404,
+                "x": 608,
+                "y": 432
+            },
+            {
+                "t": 23628.80000001192,
+                "x": 605,
+                "y": 437
+            },
+            {
+                "t": 26586.59999999404,
+                "x": 697,
+                "y": 148
+            },
+            {
+                "t": 26603,
+                "x": 753,
+                "y": 134
+            },
+            {
+                "t": 164492.80000001192,
+                "x": 521,
+                "y": 122
+            },
+            {
+                "t": 164960.59999999404,
+                "x": 521,
+                "y": 125
+            },
+            {
+                "t": 165006.80000001192,
+                "x": 521,
+                "y": 148
+            },
+            {
+                "t": 182146.59999999404,
+                "x": 340,
+                "y": 148
+            },
+            {
+                "t": 182198.20000001788,
+                "x": 374,
+                "y": 118
+            },
+            {
+                "t": 182247.5,
+                "x": 412,
+                "y": 108
+            },
+            {
+                "t": 182298.59999999404,
+                "x": 488,
+                "y": 82
+            },
+            {
+                "t": 182347.59999999404,
+                "x": 539,
+                "y": 58
+            },
+            {
+                "t": 182367.5,
+                "x": 544,
+                "y": 55
+            },
+            {
+                "t": 182475.59999999404,
+                "x": 544,
+                "y": 56
+            },
+            {
+                "t": 182515.80000001192,
+                "x": 544,
+                "y": 60
+            },
+            {
+                "t": 182748,
+                "x": 544,
+                "y": 61
+            },
+            {
+                "t": 182807.59999999404,
+                "x": 506,
+                "y": 61
+            },
+            {
+                "t": 182858.80000001192,
+                "x": 462,
+                "y": 62
+            },
+            {
+                "t": 182910.20000001788,
+                "x": 444,
+                "y": 65
+            },
+            {
+                "t": 182959.80000001192,
+                "x": 408,
+                "y": 79
+            },
+            {
+                "t": 183011.09999999404,
+                "x": 381,
+                "y": 94
+            },
+            {
+                "t": 183039,
+                "x": 380,
+                "y": 97
+            },
+            {
+                "t": 183327.80000001192,
+                "x": 379,
+                "y": 97
+            },
+            {
+                "t": 183372.20000001788,
+                "x": 373,
+                "y": 95
+            },
+            {
+                "t": 183383.80000001192,
+                "x": 371,
+                "y": 95
+            },
+            {
+                "t": 183486.80000001192,
+                "x": 367,
+                "y": 80
+            },
+            {
+                "t": 183518.30000001192,
+                "x": 367,
+                "y": 71
+            }
+        ],
+        "mousedown": [
+            {
+                "t": 3368.7000000178814,
+                "x": 356,
+                "y": 181
+            },
+            {
+                "t": 15930.40000000596,
+                "x": 509,
+                "y": 384
+            },
+            {
+                "t": 183604.70000001788,
+                "x": 367,
+                "y": 71
+            }
+        ],
+        "mouseup": [
+            {
+                "t": 3480.4000000059605,
+                "x": 356,
+                "y": 181
+            },
+            {
+                "t": 16002.5,
+                "x": 509,
+                "y": 384
+            },
+            {
+                "t": 183714.70000001788,
+                "x": 367,
+                "y": 71
+            }
+        ],
+        "wheel": [
+            {
+                "t": 182430.5,
+                "x": 544,
+                "y": 55,
+                "dy": 100,
+                "dx": 0
+            },
+            {
+                "t": 182483.09999999404,
+                "x": 544,
+                "y": 57,
+                "dy": 100,
+                "dx": 0
+            },
+            {
+                "t": 182510.70000001788,
+                "x": 544,
+                "y": 59,
+                "dy": 100,
+                "dx": 0
+            },
+            {
+                "t": 182550.5,
+                "x": 544,
+                "y": 60,
+                "dy": 100,
+                "dx": 0
+            },
+            {
+                "t": 183022.59999999404,
+                "x": 381,
+                "y": 96,
+                "dy": 100,
+                "dx": 0
+            },
+            {
+                "t": 183066.5,
+                "x": 380,
+                "y": 97,
+                "dy": 100,
+                "dx": 0
+            }
+        ],
+        "touchstart": [],
+        "touchend": [],
+        "touchmove": [],
+        "scroll": [],
+        "keydown": [
+            {
+                "t": 4296.200000017881
+            },
+            {
+                "t": 4380.200000017881
+            },
+            {
+                "t": 4510.5
+            },
+            {
+                "t": 4572.800000011921
+            },
+            {
+                "t": 4676.5999999940395
+            },
+            {
+                "t": 4802.0999999940395
+            },
+            {
+                "t": 4802.5
+            },
+            {
+                "t": 4938.5
+            },
+            {
+                "t": 5076.5999999940395
+            },
+            {
+                "t": 5348.5999999940395
+            },
+            {
+                "t": 5650.0999999940395
+            },
+            {
+                "t": 5874.700000017881
+            },
+            {
+                "t": 5978.9000000059605
+            },
+            {
+                "t": 6120.5999999940395
+            },
+            {
+                "t": 6308.700000017881
+            },
+            {
+                "t": 6397.4000000059605
+            },
+            {
+                "t": 6460
+            },
+            {
+                "t": 6681.200000017881
+            },
+            {
+                "t": 6739.0999999940395
+            },
+            {
+                "t": 6932.9000000059605
+            },
+            {
+                "t": 7057.300000011921
+            },
+            {
+                "t": 7297.800000011921
+            },
+            {
+                "t": 7396.0999999940395
+            },
+            {
+                "t": 7500.300000011921
+            },
+            {
+                "t": 7725.800000011921
+            },
+            {
+                "t": 7914.800000011921
+            },
+            {
+                "t": 8029.4000000059605
+            },
+            {
+                "t": 8748.5
+            },
+            {
+                "t": 8835.5
+            },
+            {
+                "t": 8995
+            },
+            {
+                "t": 9124.5
+            },
+            {
+                "t": 9279
+            },
+            {
+                "t": 9734.200000017881
+            },
+            {
+                "t": 9929.40000000596
+            }
+        ],
+        "keyup": [
+            {
+                "t": 4392.4000000059605
+            },
+            {
+                "t": 4460.5
+            },
+            {
+                "t": 4586
+            },
+            {
+                "t": 4701.0999999940395
+            },
+            {
+                "t": 4790.200000017881
+            },
+            {
+                "t": 5033.9000000059605
+            },
+            {
+                "t": 5034
+            },
+            {
+                "t": 5047
+            },
+            {
+                "t": 5163.200000017881
+            },
+            {
+                "t": 5418.5
+            },
+            {
+                "t": 5755.0999999940395
+            },
+            {
+                "t": 5992.0999999940395
+            },
+            {
+                "t": 6092.0999999940395
+            },
+            {
+                "t": 6175.200000017881
+            },
+            {
+                "t": 6411.0999999940395
+            },
+            {
+                "t": 6571
+            },
+            {
+                "t": 6588.4000000059605
+            },
+            {
+                "t": 6752.700000017881
+            },
+            {
+                "t": 6833
+            },
+            {
+                "t": 7028.5
+            },
+            {
+                "t": 7147.300000011921
+            },
+            {
+                "t": 7482.5
+            },
+            {
+                "t": 7603.9000000059605
+            },
+            {
+                "t": 7661.200000017881
+            },
+            {
+                "t": 7835.4000000059605
+            },
+            {
+                "t": 8020.0999999940395
+            },
+            {
+                "t": 8063.4000000059605
+            },
+            {
+                "t": 8870
+            },
+            {
+                "t": 8925.700000017881
+            },
+            {
+                "t": 9229
+            },
+            {
+                "t": 9404.800000011921
+            },
+            {
+                "t": 9803
+            },
+            {
+                "t": 9987.800000011921
+            },
+            {
+                "t": 10082.700000017881
+            }
+        ],
+        "resize": [
+            {
+                "t": 24839.5,
+                "w": 1536,
+                "h": 864
+            },
+            {
+                "t": 24934,
+                "w": 1536,
+                "h": 864
+            },
+            {
+                "t": 24990.80000001192,
+                "w": 1536,
+                "h": 864
+            },
+            {
+                "t": 25017.90000000596,
+                "w": 1536,
+                "h": 864
+            },
+            {
+                "t": 25037.09999999404,
+                "w": 1536,
+                "h": 864
+            },
+            {
+                "t": 25055,
+                "w": 1536,
+                "h": 864
+            },
+            {
+                "t": 25073.09999999404,
+                "w": 1536,
+                "h": 864
+            },
+            {
+                "t": 25089.90000000596,
+                "w": 1536,
+                "h": 864
+            },
+            {
+                "t": 25101.09999999404,
+                "w": 1536,
+                "h": 864
+            },
+            {
+                "t": 25130.5,
+                "w": 1536,
+                "h": 864
+            },
+            {
+                "t": 25151.20000001788,
+                "w": 1536,
+                "h": 864
+            },
+            {
+                "t": 25167.09999999404,
+                "w": 1536,
+                "h": 864
+            },
+            {
+                "t": 25186.09999999404,
+                "w": 1536,
+                "h": 864
+            },
+            {
+                "t": 25208.09999999404,
+                "w": 1536,
+                "h": 864
+            },
+            {
+                "t": 25230.90000000596,
+                "w": 1536,
+                "h": 864
+            },
+            {
+                "t": 25249.70000001788,
+                "w": 1536,
+                "h": 864
+            },
+            {
+                "t": 25265.59999999404,
+                "w": 1536,
+                "h": 864
+            },
+            {
+                "t": 25324.59999999404,
+                "w": 1536,
+                "h": 864
+            },
+            {
+                "t": 25345.90000000596,
+                "w": 1536,
+                "h": 864
+            }
+        ],
+        "paste": []
+    },
+    "sdk": {
+        "caller_stack_trace": "Error\n    at https://talon-website-prod.ecosec.on.epicgames.com/talon_sdk.js:1:399679\n    at Object._0x5205d5 [as execute] (https://talon-website-prod.ecosec.on.epicgames.com/talon_sdk.js:1:399847)\n    at Talon.updateIfNeeded (https://static-assets-prod.unrealengine.com/account-portal/static/assets/index-Bnksxr2S.js:618:66583)\n    at Captcha.updateIfNeeded (https://static-assets-prod.unrealengine.com/account-portal/static/assets/index-Bnksxr2S.js:618:69103)\n    at LoginForm.<anonymous> (https://static-assets-prod.unrealengine.com/account-portal/static/assets/index-Bnksxr2S.js:626:36655)\n    at Generator.next (<anonymous>)\n    at https://static-assets-prod.unrealengine.com/account-portal/static/assets/index-Bnksxr2S.js:2:1060\n    at new Promise (<anonymous>)\n    at br (https://static-assets-prod.unrealengine.com/account-portal/static/assets/index-Bnksxr2S.js:2:849)\n    at https://static-assets-prod.unrealengine.com/account-portal/static/assets/index-Bnksxr2S.js:626:36435"
+    },
+    "s": 3765414779,
+    "solve_token": false
+}
